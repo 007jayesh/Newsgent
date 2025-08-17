@@ -92,7 +92,7 @@ export default function LandingPage() {
         <div className="flex items-center justify-between">
           <div className="flex items-center">
             <Brain className="h-8 w-8 text-indigo-400" />
-            <span className="ml-3 text-xl tracking-tight">xyz.ai</span>
+            <span className="ml-3 text-xl tracking-tight">newsgent</span>
           </div>
           <div className="hidden md:flex space-x-10 text-sm text-gray-300">
             <a href="#ecosystem" className="hover:text-white transition-colors">AI Ecosystem</a>
@@ -401,9 +401,9 @@ export default function LandingPage() {
         <div className="container mx-auto px-6 text-center">
           <div className="flex items-center justify-center space-x-2 mb-4">
             <Brain className="h-6 w-6 text-indigo-400" />
-            <span className="text-xl font-light tracking-tight">xyz.ai</span>
+            <span className="text-xl font-light tracking-tight">newsgent</span>
           </div>
-          <p className="text-gray-400 font-extralight">© 2025 xyz.ai. All rights reserved.</p>
+          <p className="text-gray-400 font-extralight">© 2025 newsgent. All rights reserved.</p>
         </div>
       </footer>
     </div>

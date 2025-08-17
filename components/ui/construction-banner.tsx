@@ -17,7 +17,7 @@ export default function ConstructionBanner() {
         <div className="flex items-center space-x-2">
           <span className="font-medium">🚧 MVP Under Construction</span>
           <span className="text-orange-200">
-            This is a demo version - you can explore all features while we build the full platform
+            This is our MVP and currently under construction - please explore the features and share your feedback
           </span>
           <Eye className="h-4 w-4 text-orange-300 ml-2" />
         </div>

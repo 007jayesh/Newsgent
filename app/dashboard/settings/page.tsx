@@ -127,14 +127,14 @@ export default function SettingsDashboardPage() {
                     <Label className="text-gray-300">Email Address</Label>
                     <Input 
                       type="email"
-                      defaultValue="demo@xyz.ai"
+                      defaultValue="demo@newsgent"
                       className="mt-1 bg-gray-800/50 border-gray-700 text-white"
                     />
                   </div>
                   <div>
                     <Label className="text-gray-300">Company</Label>
                     <Input 
-                      defaultValue="xyz.ai"
+                      defaultValue="newsgent"
                       className="mt-1 bg-gray-800/50 border-gray-700 text-white"
                     />
                   </div>

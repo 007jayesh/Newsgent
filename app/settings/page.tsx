@@ -274,7 +274,7 @@ Current performance outpacing industry benchmarks by 2.3x, positioning for stron
             </Link>
             <div className="flex items-center space-x-2">
               <Brain className="h-6 w-6 text-blue-600" />
-              <span className="text-xl font-bold text-gray-900">xyz.ai Newsletter Generator</span>
+              <span className="text-xl font-bold text-gray-900">newsgent Newsletter Generator</span>
             </div>
           </div>
           {mcpConnected && (

@@ -472,7 +472,7 @@ export default function NewsletterPage({ params }: { params: Promise<{ id: strin
             </Link>
             <div className="flex items-center space-x-2">
               <Brain className="h-6 w-6 text-indigo-400" />
-              <span className="text-xl font-light tracking-tight">xyz.ai</span>
+              <span className="text-xl font-light tracking-tight">newsgent</span>
             </div>
           </div>
           <div className="flex items-center space-x-2">

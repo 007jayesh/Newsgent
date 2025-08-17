@@ -274,7 +274,7 @@ export default function LandingPage() {
         <div className="flex items-center justify-between">
           <div className="flex items-center">
             <Brain className="h-8 w-8 text-indigo-400" />
-            <span className="ml-3 text-xl tracking-tight">xyz.ai</span>
+            <span className="ml-3 text-xl tracking-tight">newsgent</span>
           </div>
           <div className="hidden md:flex space-x-10 text-sm text-gray-300">
             <a href="#transformation" className="hover:text-white transition-colors">
@@ -651,7 +651,7 @@ export default function LandingPage() {
                   <ArrowDown className="h-6 w-6 text-indigo-400 xl:hidden" />
                 </div>
                 <div className="text-center">
-                  <div className="text-indigo-400 font-light text-sm">xyz.ai transforms this into</div>
+                  <div className="text-indigo-400 font-light text-sm">newsgent transforms this into</div>
                   <div className="text-xs text-gray-500">Every Monday at 9 AM</div>
                 </div>
               </div>
@@ -1140,7 +1140,7 @@ export default function LandingPage() {
         <div className="text-center mb-16">
           <div className="inline-flex items-center space-x-2 bg-indigo-500/10 border border-indigo-500/20 rounded-full px-4 py-2 mb-6">
             <Zap className="h-4 w-4 text-indigo-400" />
-            <span className="text-indigo-300 text-sm font-light">How xyz.ai Works</span>
+            <span className="text-indigo-300 text-sm font-light">How newsgent Works</span>
           </div>
           <h2 className="text-4xl md:text-5xl font-light tracking-tighter mb-6">
             Three steps to <span className="text-indigo-400">strategic clarity</span>
@@ -1237,9 +1237,9 @@ export default function LandingPage() {
         <div className="container mx-auto px-6 text-center">
           <div className="flex items-center justify-center space-x-2 mb-4">
             <Brain className="h-6 w-6 text-indigo-400" />
-            <span className="text-xl font-light tracking-tight">xyz.ai</span>
+            <span className="text-xl font-light tracking-tight">newsgent</span>
           </div>
-          <p className="text-gray-400 font-extralight">© 2025 xyz.ai. All rights reserved.</p>
+          <p className="text-gray-400 font-extralight">© 2025 newsgent. All rights reserved.</p>
         </div>
       </footer>
     </div>

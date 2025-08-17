@@ -62,7 +62,7 @@ export default function Sidebar() {
       <div className="flex items-center space-x-3 px-6 py-6 border-b border-gray-800">
         <Brain className="h-8 w-8 text-indigo-400" />
         <div>
-          <div className="text-xl font-light tracking-tight">xyz.ai</div>
+          <div className="text-xl font-light tracking-tight">newsgent</div>
           <div className="text-xs text-gray-400">Financial Intelligence</div>
         </div>
       </div>
@@ -103,7 +103,7 @@ export default function Sidebar() {
           </div>
           <div className="flex-1">
             <div className="text-sm font-medium">Demo User</div>
-            <div className="text-xs text-gray-400">demo@xyz.ai</div>
+            <div className="text-xs text-gray-400">demo@newsgent</div>
           </div>
         </div>
         

@@ -58,7 +58,7 @@ Focus on actionable recommendations that a startup founder can implement immedia
         <div className="text-center mb-8">
           <div className="flex items-center justify-center space-x-2 mb-4">
             <Brain className="h-8 w-8 text-blue-600" />
-            <span className="text-2xl font-bold text-gray-900">xyz.ai</span>
+            <span className="text-2xl font-bold text-gray-900">newsgent</span>
           </div>
           <h1 className="text-3xl font-bold text-gray-900 mb-2">Let's Get You Started</h1>
           <p className="text-gray-600">Set up your data connection and configure your AI analyst</p>

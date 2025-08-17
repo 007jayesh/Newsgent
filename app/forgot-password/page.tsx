@@ -45,7 +45,7 @@ export default function ForgotPasswordPage() {
 
           <div className="flex items-center justify-center space-x-2 mb-4">
             <Brain className="h-8 w-8 text-indigo-400" />
-            <span className="text-2xl font-light tracking-tight">xyz.ai</span>
+            <span className="text-2xl font-light tracking-tight">newsgent</span>
           </div>
         </div>
 
@@ -54,7 +54,7 @@ export default function ForgotPasswordPage() {
           <div className="text-center mb-6">
             <h1 className="text-2xl font-light tracking-tight mb-2">Reset your password</h1>
             <p className="text-gray-400 font-extralight">
-              Enter the email you use with xyz.ai and we’ll send a reset link
+              Enter the email you use with newsgent and we’ll send a reset link
             </p>
           </div>
 

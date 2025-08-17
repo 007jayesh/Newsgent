@@ -40,7 +40,7 @@ export default function SignUpPage() {
           </Link>
           <div className="flex items-center justify-center space-x-2 mb-4">
             <Brain className="h-8 w-8 text-indigo-400" />
-            <span className="text-2xl font-light tracking-tight">xyz.ai</span>
+            <span className="text-2xl font-light tracking-tight">newsgent</span>
           </div>
         </div>
 
